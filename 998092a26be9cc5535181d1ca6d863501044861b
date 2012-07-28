@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVX//8tQ\u003d",
+        "filename": "res/values-hu/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2012-07-28T00:27:40Z",
+      "side": 1,
+      "message": "Extra helyett legyen Nagyon",
+      "revId": "998092a26be9cc5535181d1ca6d863501044861b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVX//8tM\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2012-07-28T00:27:40Z",
+      "side": 1,
+      "message": "infó",
+      "revId": "998092a26be9cc5535181d1ca6d863501044861b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVX//8tI\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2012-07-28T00:27:40Z",
+      "side": 1,
+      "message": "egy szó",
+      "revId": "998092a26be9cc5535181d1ca6d863501044861b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
