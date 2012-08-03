@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVn//+i4\u003d",
+        "filename": "res/values-pt-rBR/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2816
+      },
+      "writtenOn": "2012-08-03T19:12:44Z",
+      "side": 1,
+      "message": "Extremamente Grande",
+      "revId": "c5116c95820e0e296f818de12c89ad20abede567",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
