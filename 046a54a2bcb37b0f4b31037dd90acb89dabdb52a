@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVn//+00\u003d",
+        "filename": "res/values-pt-rBR/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2759
+      },
+      "writtenOn": "2012-08-03T09:19:46Z",
+      "side": 1,
+      "message": "This name is strange. Maybe the translation would be \"Peças de Reposição\" ? I prefer to keep \"Spare Parts\".",
+      "revId": "046a54a2bcb37b0f4b31037dd90acb89dabdb52a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
