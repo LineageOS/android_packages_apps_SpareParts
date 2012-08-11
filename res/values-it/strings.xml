@@ -3,7 +3,7 @@
     <string name="app_label">Spare Parts</string>
     <string name="device_info_title">Informazioni dispositivo</string>
     <string name="title_battery_history">Storico batteria</string>
-    <string name="summary_battery_history">Dettagli delle modalità di utilizzo della batteria</string>   
+    <string name="summary_battery_history">Dettagli delle modalità di utilizzo della batteria</string>
     <string name="title_battery_information">Informazioni batteria</string>
     <string name="summary_battery_information">Informazioni sullo stato corrente della batteria</string>
     <string name="title_usage_statistics">Statistiche utilizzo</string>
@@ -32,4 +32,3 @@
     <string name="compatibility_mode_summary_on">Avvia le vecchie applicazioni in modalità compatibile. Richiede riavvio. </string>
     <string name="compatibility_mode_summary_off">Avvia le vecchie applicazioni in modalità compatibile. Richiede riavvio. </string>
 </resources>
-	
