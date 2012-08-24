@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn//++w\u003d",
+        "filename": "res/values-nl/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T22:07:55Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWn///GM\u003d",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWn///GE\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2012-08-24T17:47:06Z",
       "side": 1,
       "message": "(Beschrijving van) de huidige batterijstatus?",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn//++s\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T22:07:55Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWn///GE\u003d",
       "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn//++o\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T22:07:55Z",
+      "side": 1,
+      "message": "Done (enkelvoudig)",
+      "parentUuid": "AAAAWn///GA\u003d",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWn///F8\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -70,6 +124,41 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn//++k\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T22:07:55Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWn///F8\u003d",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn//++g\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T22:07:55Z",
+      "side": 1,
+      "message": "- Kies animatiesnelheid",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWn///F4\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -81,6 +170,24 @@
       "writtenOn": "2012-08-24T17:47:06Z",
       "side": 1,
       "message": "Kies ophang-knop?",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn//++c\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T22:07:55Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWn///F4\u003d",
       "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
