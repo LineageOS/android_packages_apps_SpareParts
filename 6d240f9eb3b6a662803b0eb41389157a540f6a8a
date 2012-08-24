@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWn///GM\u003d",
+        "filename": "res/values-nl/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-08-24T17:47:06Z",
+      "side": 1,
+      "message": "Extreem klein, zeer klein, klein, normaal, groot, zeer groot, extreem groot?",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn///GE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-08-24T17:47:06Z",
+      "side": 1,
+      "message": "(Beschrijving van) de huidige batterijstatus?",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn///GA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-08-24T17:47:06Z",
+      "side": 1,
+      "message": "Animatiesnelheid binnen een vensters?",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn///F8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-08-24T17:47:06Z",
+      "side": 1,
+      "message": "Kies animatiesnelheid?",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn///F4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-08-24T17:47:06Z",
+      "side": 1,
+      "message": "Kies ophang-knop?",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
