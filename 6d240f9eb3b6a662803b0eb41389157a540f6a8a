@@ -143,6 +143,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn//+5s\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-25T00:53:03Z",
+      "side": 1,
+      "message": "Voordat ik dit had vertaald had ik even gekeken in Settings en daar wordt idd \u0027venster\u0027 gebruikt, net zoals in het meest bekende OS \u0027Windows\u0027 :)",
+      "parentUuid": "AAAAWn//+6M\u003d",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWn///F8\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -229,6 +247,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn//+5o\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-25T00:53:03Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWn//+7A\u003d",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWn//+6k\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -240,6 +276,24 @@
       "writtenOn": "2012-08-25T00:41:56Z",
       "side": 1,
       "message": "input method windows\n\n* Mooiere animaties gebruiken voor invoerschermen\n\n??",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn//+5k\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-25T00:53:03Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWn//+6k\u003d",
       "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
