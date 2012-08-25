@@ -107,6 +107,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn//+7c\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-25T00:41:56Z",
+      "side": 1,
+      "message": "Speed of animations in individual windows\n\n* Animatiesnelheid binnen vensters\n\nEn kunnen we \"venster\" niet vervangen voor \"scherm\"?\n\n* Animatiesnelheid binnen schermen",
+      "parentUuid": "AAAAWn//++o\u003d",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWn///F8\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -142,6 +160,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn//+6o\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-25T00:41:56Z",
+      "side": 1,
+      "message": "* Animatiesnelheid bij schermovergangen",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWn//++g\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -153,6 +188,57 @@
       "writtenOn": "2012-08-24T22:07:55Z",
       "side": 1,
       "message": "- Kies animatiesnelheid",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn//+7A\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-25T00:41:56Z",
+      "side": 1,
+      "message": "Prachtige -\u003e Mooie",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn//+6k\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-25T00:41:56Z",
+      "side": 1,
+      "message": "input method windows\n\n* Mooiere animaties gebruiken voor invoerschermen\n\n??",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn//+6g\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-25T00:41:56Z",
+      "side": 1,
+      "message": "* Normale animaties gebruiken voor invoerschermen",
       "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
