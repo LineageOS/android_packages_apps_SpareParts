@@ -125,6 +125,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn//+6M\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-08-25T00:48:43Z",
+      "side": 1,
+      "message": "Nee, ik vind venster en scherm echt iets verschillends. Een venster hoeft het scherm niet helemaal te vullen. Ik ben voor de eerste van die 2 van Eddy. Animatiesnelheid binnen vensters",
+      "parentUuid": "AAAAWn//+7c\u003d",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWn///F8\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
