@@ -300,6 +300,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn//+4Q\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-25T01:04:33Z",
+      "side": 1,
+      "message": "Nu ik met een andere patch bezig ben, begrijp ik pas wat hier bedoeld word.\nVolgens mij zijn invoermethoden dingen zoals het toestenbord, of voice input.\n\nDus eigenlijk is het origineel wel ok, sorry!",
+      "parentUuid": "AAAAWn//+5k\u003d",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWn//+6g\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -311,6 +329,24 @@
       "writtenOn": "2012-08-25T00:41:56Z",
       "side": 1,
       "message": "* Normale animaties gebruiken voor invoerschermen",
+      "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn//+4M\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-25T01:04:33Z",
+      "side": 1,
+      "message": "Origineel wel ok, zie boven.",
+      "parentUuid": "AAAAWn//+6g\u003d",
       "revId": "6d240f9eb3b6a662803b0eb41389157a540f6a8a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
