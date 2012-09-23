@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources>
+    <string name="app_label">Reservedeler</string>
+
+    <string name="device_info_title">Enhetsinformasjon</string>
+    
+    <string name="title_battery_history">Batterihistore</string>
+    <string name="summary_battery_history">Sammendrag av hvordan batteriet har blitt brukt</string>
+    
+    <string name="title_battery_information">Batteriinformasjon</string>
+    <string name="summary_battery_information">Informasjon om gjeldende batteristatus</string>
+    
+    <string name="title_usage_statistics">Bruksstatistikk</string>
+    <string name="summary_usage_statistics">Sammendrag av applikasjonsbruk</string>
+    
+    <string name="general_title">Generelt</string>
+    
+    <string name="title_window_animations">Vindusanimasjoner</string>
+    <string name="summary_window_animations">Animasjonshastighet i individuelle vinduer</string>
+    <string name="dialog_title_window_animations">Velg vindushastighet</string>
+    
+    <string name="title_transition_animations">Overgangsanimasjoner</string>
+    <string name="summary_transition_animations">Animasjonshastighet ved bevegelse mellom skjermer</string>
+    <string name="dialog_title_transition_animations">Velg overgangshastighet</string>
+    
+    <string name="title_fancy_ime_animations">Fancy inndataanimasjoner</string>
+    <string name="summary_on_fancy_ime_animations">Bruk mer fancy vindusanimasjoner for inntastingsmetode</string>
+    <string name="summary_off_fancy_ime_animations">Bruk normale vindusanimasjoner for inntastingsmetode</string>
+    
+    <string name="title_haptic_feedback">Berøringsvibrasjon</string>
+    <string name="summary_on_haptic_feedback">Bruk berøringsvibrasjon ved brukeraktivitet</string>
+    <string name="summary_off_haptic_feedback">Bruk berøringsvibrasjon ved brukeraktivitet</string>
+    
+    <string name="title_font_size">Skriftstørrelse</string>
+    <string name="summary_font_size">Generell skriftstørrelse</string>
+    <string name="dialog_title_font_size">Velg skriftstørrelse</string>
+    
+    <string name="title_end_button">Oppførsel for avsluttknapp</string>
+    <string name="summary_end_button">Velg handling for vsluttknapp (rød knapp)</string>
+    <string name="dialog_title_end_button">Velg avsluttknapp</string>
+    
+    <string name="applications_title">Applikasjoner</string>
+    
+    <!-- Sound & display settings screen, compatibility mode check box label -->
+    <string name="compatibility_mode_title">Kompatibilitetsmodus</string>
+    <!-- Sound & display settings screen, compatibility mode option summary text when check box is selected -->
+    <string name="compatibility_mode_summary_on">Kjør eldre apper i kompatibilitetsmodus. Dette krever omstart.</string>
+    <!-- Sound & display settings screen, compatibility mode option summary text when check box is clear -->
+    <string name="compatibility_mode_summary_off">Kjør eldre apper i kompatibilitetsmodus. Dette krever omstart.</string>
+</resources>
