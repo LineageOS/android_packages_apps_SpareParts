@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAen//94w\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "Au passage, enlever.",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAen//95s\u003d",
         "filename": "res/values-fr/arrays.xml",
         "patchSetId": 1
@@ -166,6 +183,176 @@
       "writtenOn": "2013-04-06T21:43:59Z",
       "side": 1,
       "message": "Normale",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//94k\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "Accueil",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//94g\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "Accueil",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//96M\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "Informations de l\u0027appareil // A propos de l\u0027appareil",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//930\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "fantaisistes",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//934\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "\"Le retour haptique *lors des* interactions de\nl\\\u0027utilisateur *est activé*\"",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//94A\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "\"Le retour haptique *lors des* interactions de\nl\\\u0027utilisateur *est désactivé*\"",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//94I\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "polices de caractères (\u003d\u003e summary, on fait large)",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//94E\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "caractères",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//94U\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "Un espace de trop à la fin.",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//94Y\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T21:49:41Z",
+      "side": 1,
+      "message": "Un espace de trop à la fin.",
       "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
