@@ -1,0 +1,174 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//95w\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-04-06T21:43:59Z",
+      "side": 1,
+      "message": "Il y a un espace",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//95s\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-04-06T21:43:59Z",
+      "side": 1,
+      "message": "Désactivées",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//95g\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-04-06T21:43:59Z",
+      "side": 1,
+      "message": "Rapides",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//95Y\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-04-06T21:43:59Z",
+      "side": 1,
+      "message": "Normales",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//95U\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-04-06T21:43:59Z",
+      "side": 1,
+      "message": "Lentes",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//95M\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-04-06T21:43:59Z",
+      "side": 1,
+      "message": "Très lentes",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//95I\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-04-06T21:43:59Z",
+      "side": 1,
+      "message": "Extrêmement petite",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//95A\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-04-06T21:43:59Z",
+      "side": 1,
+      "message": "Très petite",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//948\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-04-06T21:43:59Z",
+      "side": 1,
+      "message": "Petite",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//944\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-04-06T21:43:59Z",
+      "side": 1,
+      "message": "Normale",
+      "revId": "efc9fcc5cd3a4e5fd42a5576d3e9c190ef320ad9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
