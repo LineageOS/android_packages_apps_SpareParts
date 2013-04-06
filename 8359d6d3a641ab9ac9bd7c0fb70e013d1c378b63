@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//92Q\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-04-06T22:03:22Z",
+      "side": 1,
+      "message": "Deux espaces avent le \"propos\".",
+      "revId": "8359d6d3a641ab9ac9bd7c0fb70e013d1c378b63",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
