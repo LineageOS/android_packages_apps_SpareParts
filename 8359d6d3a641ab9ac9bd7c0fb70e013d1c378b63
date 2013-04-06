@@ -16,6 +16,24 @@
       "revId": "8359d6d3a641ab9ac9bd7c0fb70e013d1c378b63",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//918\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-04-06T22:11:03Z",
+      "side": 1,
+      "message": "Décidément je veux aller trop vite",
+      "parentUuid": "AAAAen//92Q\u003d",
+      "revId": "8359d6d3a641ab9ac9bd7c0fb70e013d1c378b63",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
