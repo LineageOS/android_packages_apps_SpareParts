@@ -16,6 +16,24 @@
       "revId": "66c2bbf974960ab099e594191a5c878b60ffb72f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//9f4\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-04-07T23:56:07Z",
+      "side": 1,
+      "message": "L’œil du relecteur est impitoyable :)\n\nJe corrige",
+      "parentUuid": "AAAAen//9gk\u003d",
+      "revId": "66c2bbf974960ab099e594191a5c878b60ffb72f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
